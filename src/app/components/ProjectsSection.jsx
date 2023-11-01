@@ -20,8 +20,8 @@ const projectsData = [
     description: "My own portfolio , techstack used is Nextjs",
     image: "/images/projects/2.png",
     tag: ["All", "Web", "Mobile"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/sampatT3CH/portfolio-nextjs",
+    previewUrl: "https://portfolio-nextjs-sn4k.vercel.app/",
   },
   {
     id: 3,
