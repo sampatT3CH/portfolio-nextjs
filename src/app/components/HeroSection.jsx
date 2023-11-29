@@ -12,7 +12,7 @@ import { TypeAnimation } from 'react-type-animation';
 const HeroSection = () => {
 
 const downloadCV = () => {
-  const cvUrl = 'https://sampat-kumar.tiiny.site/';
+  const cvUrl = 'https://sampa-kumar-resume.tiiny.site/';
 
   const link = document.createElement('a');
   link.href = cvUrl;
