@@ -12,11 +12,13 @@ const TAB_DATA = [
         <li>React</li>
         <li>Nextjs</li>
         <li>Vuejs</li>
+        <li>Angular</li>
         <li>Node.js</li>
         <li>Express</li>
         <li>PostgreSQL</li>
         <li>Sequelize</li>
         <li>JavaScript</li>
+        <li>TypeScript</li>
       </ul>
     ),
   },
