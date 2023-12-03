@@ -31,6 +31,15 @@ const projectsData = [
     tag: ["All", "Web"],
     gitUrl: "https://github.com/mpskumar075/airbnb-clone",
     previewUrl: "https://airbnb-clone-five.vercel.app/",
+  },
+   {
+    id: 4,
+    title: "Ecommerce App (MERN)",
+    description: "Ecommerce website with jwt authentication, paypal payment option, filter products,update shipping status,admin and customer seperate login/dashboard",
+    image: "/images/projects/4.png",
+    tag: ["Web"],
+    gitUrl: "https://github.com/sampatT3CH/ecommerce_app",
+    previewUrl: "https://odd-pink-seal-kilt.cyclic.app/",
   }
 ];
 
