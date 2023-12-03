@@ -37,7 +37,7 @@ const projectsData = [
     title: "Ecommerce App (MERN)",
     description: "Ecommerce website with jwt authentication, paypal payment option, filter products,update shipping status,admin and customer seperate login/dashboard",
     image: "/images/projects/4.png",
-    tag: ["Web"],
+    tag: ["All", "Web", "Mobile"],
     gitUrl: "https://github.com/sampatT3CH/ecommerce_app",
     previewUrl: "https://odd-pink-seal-kilt.cyclic.app/",
   }
