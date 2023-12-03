@@ -6,7 +6,15 @@ import { motion, useInView } from "framer-motion";
 
 const projectsData = [
   {
-    id: 1,
+    title: "Ecommerce App (MERN)",
+    description: "Ecommerce website with jwt authentication, paypal payment option, filter products,update shipping status,admin and customer seperate login/dashboard",
+    image: "/images/projects/4.png",
+    tag: ["All", "Web", "Mobile"],
+    gitUrl: "https://github.com/sampatT3CH/ecommerce_app",
+    previewUrl: "https://odd-pink-seal-kilt.cyclic.app/",
+  },
+  {
+    id: 2,
     title: "Discover and Share Prompts (Nextjs)",
     description: "Create and discover prompts,Techstack used is Next js, Google authentication for login and signup",
     image: "/images/projects/1.png",
@@ -15,7 +23,7 @@ const projectsData = [
     previewUrl: "https://project-nextjs-9j90u4eib-sampats-projects.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Portfolio Website (Nextjs)",
     description: "My own portfolio , techstack used is Nextjs",
     image: "/images/projects/2.png",
@@ -23,23 +31,14 @@ const projectsData = [
     gitUrl: "https://github.com/sampatT3CH/portfolio-nextjs",
     previewUrl: "https://portfolio-nextjs-sn4k.vercel.app/",
   },
-  {
-    id: 3,
-    title: "Airbnb clone (React)",
+   {
+    id: 4,
+   title: "Airbnb clone (React)",
     description: "Frontend react project to book hotels on selected dates",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/mpskumar075/airbnb-clone",
     previewUrl: "https://airbnb-clone-five.vercel.app/",
-  },
-   {
-    id: 4,
-    title: "Ecommerce App (MERN)",
-    description: "Ecommerce website with jwt authentication, paypal payment option, filter products,update shipping status,admin and customer seperate login/dashboard",
-    image: "/images/projects/4.png",
-    tag: ["All", "Web", "Mobile"],
-    gitUrl: "https://github.com/sampatT3CH/ecommerce_app",
-    previewUrl: "https://odd-pink-seal-kilt.cyclic.app/",
   }
 ];
 
