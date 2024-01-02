@@ -6,6 +6,16 @@ import { motion, useInView } from "framer-motion";
 
 const projectsData = [
   {
+    id:1,
+    title: "Authentication App (MERN)",
+    description: "Authentication website with jwt, json web token,redux toolkit, cookie, firebae oAuth signup, profile upload",
+    image: "/images/projects/5.png",
+    tag: ["All", "Web", "Mobile"],
+    gitUrl: "https://github.com/sampatT3CH/mern-auth",
+    previewUrl: "https://mern-auth-6qpz.onrender.com/",
+  },
+  {
+    id:2,
     title: "Ecommerce App (MERN)",
     description: "Ecommerce website with jwt authentication, paypal payment option, filter products,update shipping status,admin and customer seperate login/dashboard",
     image: "/images/projects/4.png",
@@ -14,7 +24,7 @@ const projectsData = [
     previewUrl: "https://odd-pink-seal-kilt.cyclic.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Discover and Share Prompts (Nextjs)",
     description: "Create and discover prompts,Techstack used is Next js, Google authentication for login and signup",
     image: "/images/projects/1.png",
@@ -23,7 +33,7 @@ const projectsData = [
     previewUrl: "https://project-nextjs-9j90u4eib-sampats-projects.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Portfolio Website (Nextjs)",
     description: "My own portfolio , techstack used is Nextjs",
     image: "/images/projects/2.png",
@@ -32,7 +42,7 @@ const projectsData = [
     previewUrl: "https://portfolio-nextjs-sn4k.vercel.app/",
   },
    {
-    id: 4,
+    id: 5,
    title: "Airbnb clone (React)",
     description: "Frontend react project to book hotels on selected dates",
     image: "/images/projects/3.png",
